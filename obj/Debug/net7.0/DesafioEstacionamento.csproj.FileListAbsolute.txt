@@ -1,0 +1,15 @@
+D:\C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.exe
+D:\C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.deps.json
+D:\C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.runtimeconfig.json
+D:\C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.dll
+D:\C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.pdb
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.csproj.AssemblyReference.cache
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.AssemblyInfo.cs
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.dll
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\refint\DesafioEstacionamento.dll
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.pdb
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.genruntimeconfig.cache
+D:\C#\DesafioEstacionamento\obj\Debug\net7.0\ref\DesafioEstacionamento.dll
